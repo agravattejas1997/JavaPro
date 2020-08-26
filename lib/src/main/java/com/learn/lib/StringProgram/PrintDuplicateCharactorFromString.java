@@ -1,4 +1,4 @@
-package com.learn.lib;
+package com.learn.lib.StringProgram;
 
 import java.util.HashMap;
 import java.util.Map;

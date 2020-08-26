@@ -1,4 +1,4 @@
-package com.learn.lib;
+package com.learn.lib.PyramidProgram;
 
 public class Pyramid_1 {
     public static void main(String[] arg) {
